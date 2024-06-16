@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Judah Precious J</h1>
 <h3 align="right">A passionate full-stack developer from India</h3>
 
-<img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="center" alt="Coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Vw0h81Yg2uJFrfWvZ_4Pn&ust=1718642361346000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjZj_rH4IYDFQAAAAAdAAAAABAE" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=judahprecious&label=Profile%20views&color=0e75b6&style=flat" alt="judahprecious" /> </p>
 
