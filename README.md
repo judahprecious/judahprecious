@@ -24,9 +24,9 @@
 <a href="https://fb.com/https://www.facebook.com/kutty.jude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kutty.jude" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/judahprecious_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/judahprecious_j" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/gjdywoay78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gjdywoay78/" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/judah-precious-445a16317" target="_blank">
+<!--   <a href="www.linkedin.com/in/judah-precious-445a16317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
